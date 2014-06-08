@@ -11,13 +11,13 @@ Illustratorで自動保存を行うことにより,
 
 
 ## Usage
-0. Adobe Bridge の FAVORITS に登録しておくと便利
 1. Adobe Bridge から AutoSave.jsx を開く
 2. 保存間隔時間を入力
 3. 一回も保存していないファイルは出てくるプロンプトで保存先を選択してください
 4. 指定した間隔で勝手に保存, 履歴ファイルが "./${filename}_autosave" 以下に作成されます
 5. 簡単 ✌ ('ω' ✌ )三 ✌ ('ω') ✌ 三( ✌ 'ω') ✌
 
+* Adobe Bridge の FAVORITS に登録しておくと便利
 
 ## Notice
 * Adobe Bridge がないと動きません
