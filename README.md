@@ -17,8 +17,8 @@ Illustratorで自動保存を行うことにより,
 4. 指定した間隔で勝手に保存, 履歴ファイルが "./${filename}_autosave" 以下に作成されます
 5. 簡単 ✌ ('ω' ✌ )三 ✌ ('ω') ✌ 三( ✌ 'ω') ✌
 
-<!-- break -->
-* Adobe Bridge の FAVORITS に登録しておくと便利
+Adobe Bridge の FAVORITS に登録しておくと便利
+
 
 ## Notice
 * Adobe Bridge がないと動きません
