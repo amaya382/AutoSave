@@ -21,6 +21,7 @@ Adobe Bridge の FAVORITS に登録しておくと便利
 
 
 ## Notice
+* min版の方が同じ動作でほんの少しだけ負荷が少ない(かも)
 * Mac版CS6でのみ動作を確認しています. その他のバージョンでの動作保証はありません
 * Adobe Bridge がないと動きません
 * 実行中に Adobe Bridge を止めると, 自動保存も止まります
